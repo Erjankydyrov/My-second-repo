@@ -37,3 +37,10 @@ nav ul li a:hover{
     background-color: white;
     transition-duration: 1s;
 }
+header{
+    background-color: teal;
+    text-align: center;
+}
+header h1{
+    margin-top: 0;
+}
